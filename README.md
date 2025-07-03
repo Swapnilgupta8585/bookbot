@@ -1,5 +1,5 @@
 # BookBot
-This Python script analyzes a text file by counting words and character frequencies.
+This Python script analyzes a text file by the counting words and character frequencies.
 
 ## What It Does
 
